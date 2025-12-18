@@ -1,0 +1,8 @@
+numpy
+torch
+transformers
+sentence-transformers
+rank-bm25
+nltk
+Pillow
+tqdm
