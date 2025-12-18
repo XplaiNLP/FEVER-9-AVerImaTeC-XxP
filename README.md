@@ -1,6 +1,6 @@
 # Improving Automated Verification of Image–Text Claims Through Structured Reasoning
 
-This repo documents the code for our submission within the [FEVER-9 Shared Task](https://fever.ai/task.html).
+This repository documents the code for our submission within the [FEVER-9 Shared Task](https://fever.ai/task.html).
 
 ## Files
 - `run_pipeline.py` — CLI entry point that loads the dataset and runs retrieval + generation.
