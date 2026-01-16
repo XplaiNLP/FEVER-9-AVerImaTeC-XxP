@@ -1,4 +1,4 @@
-# Improving Automated Verification of Image–Text Claims Through Structured Reasoning
+# Selective Multimodal Retrieval for Automated Verification of Image–Text Claims
 
 This repository documents the code for our submission within the [FEVER-9 Shared Task](https://fever.ai/task.html).
 
